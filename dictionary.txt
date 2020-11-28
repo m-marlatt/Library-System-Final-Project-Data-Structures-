@@ -1,0 +1,32 @@
+{
+"HR": {
+"Horror"
+},
+"HY": {
+"History"
+},
+"HF": {
+"Historical Fiction"
+},
+"FA": {
+"Fantasy"
+},
+"BO": {
+"Biography"
+},
+"WT": {
+"World Travels"
+},
+"WS": {
+"Western"
+},
+"RM": {
+"Romance"
+},
+"GC": {
+"Greek Classic"
+},
+"CC": {
+"Cult Classic"
+}
+}
